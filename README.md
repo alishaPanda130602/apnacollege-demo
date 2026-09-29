@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my git repository.
 <br>
-Author - Alisha Panda
+Author - Alisha Panda (MCA)
